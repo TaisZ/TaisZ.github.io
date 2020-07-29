@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to My Blog
+## 欢迎来到我的博客
 
 You can use the [editor on GitHub](https://github.com/TaisZ/TaisZ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
